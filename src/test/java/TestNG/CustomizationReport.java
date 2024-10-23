@@ -11,6 +11,8 @@ public class CustomizationReport {
 		WebDriver w = new ChromeDriver();
 		Reporter.log("Chrome has been Launched");
 		w.get("");
+		
+		
 	}
 	
 
